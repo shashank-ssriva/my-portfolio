@@ -25,16 +25,20 @@ export default function HeroSection() {
 					<div className="font-mono">
 						<p className="text-green-500">$ whoami</p>
 						<h1 className="text-4xl md:text-5xl font-bold mt-2 mb-4">Shashank Srivastava</h1>
-						<p className="text-gray-400 mb-2">DevOps/DevSecOps Architect</p>
+						<p className="text-gray-400 mb-2">DevOps/DevSecOps Architect & Engineering leader with 15+ years of experience scaling secure, cloud-native systems across all major Cloud Service Providers.</p>
+						<br />
 						<p className="text-green-500">$ skills</p>
 						<div className="flex flex-wrap gap-2 mt-2">
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">AWS/GCP/Azure</span>
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Python</span>
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Node.js</span>
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">AWS</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Shell Scripting</span>
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Docker</span>
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Kubernetes</span>
 							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Prometheus/Grafana/ELK</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Ansible</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Terraform</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Unix/Linux</span>
+							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Redis/Kafka</span>
 						</div>
 					</div>
 				</motion.div>
