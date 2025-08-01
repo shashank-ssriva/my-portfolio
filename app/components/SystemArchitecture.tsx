@@ -13,26 +13,24 @@ export default function SystemArchitecture() {
 				<div className="grid grid-cols-1 gap-8">
 					{[
 						{
-							title: 'API Gateway Automation',
-							description: 'Designed and implemented a microservices architecture handling 1M+ daily requests with 99.99% uptime',
+							title: 'AWS API Gateway Automation',
+							description: 'Build a Python app to automate the creation of AWS API Gateway resources by reading API information from a Google Sheet',
 							details: [
-								'Containerized microservices with Docker and Kubernetes',
-								'Implemented service mesh with Istio',
-								'Designed event-driven architecture using Apache Kafka',
-								'Achieved 40% reduction in response times',
+								'Reduced API creation time by 90% - no more fiddling with AWS Console or CLI.',
+								'End-to-end automation using Jenkins pipeline',
+								'Increased Dev velocity.',
 							],
-							tech: ['Kubernetes', 'Docker', 'Istio', 'Kafka', 'MongoDB', 'Redis'],
+							tech: ['Python', 'Jenkins', 'Groovy', 'Boto3', 'Google Sheets API'],
 						},
 						{
-							title: 'Real-time Data Processing Pipeline',
-							description: 'Built a robust data processing pipeline handling 5TB+ daily data with sub-second latency',
+							title: 'AI based LinkedIn & other profile categorisor and credential issuer',
+							description: 'Built an end-to-end AI automation tool that categorises LinkedIn and similar profiles, creates Verix credentials & issues them.',
 							details: [
-								'Implemented stream processing with Apache Flink',
-								'Designed fault-tolerant architecture with automatic failover',
-								'Optimized data throughput by 60%',
-								'Implemented comprehensive monitoring with Prometheus & Grafana',
+								'One-click automation.',
+								'Saved countless man-hours by automating manual processes.',
+								'Optimized and enhanced the credential delivery cycle by 99%',
 							],
-							tech: ['Apache Flink', 'AWS Kinesis', 'Prometheus', 'Grafana', 'Python', 'PostgreSQL'],
+							tech: ['Python', 'OpenAI', 'FastAPI', 'Phantom Buster', 'Google Sheets API', 'MySQL'],
 						},
 					].map((project, index) => (
 						<motion.div
