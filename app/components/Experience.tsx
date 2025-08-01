@@ -24,7 +24,7 @@ export default function Experience() {
 							tech: ['AWS', 'GCP', 'Azure', 'Kubernetes', 'Docker', 'Helm', 'Jenkins', 'MySQL', 'PostgreSQL', 'Redis', 'Python'],
 						},
 						{
-							title: 'Paytm (Principal Engineer',
+							title: 'Paytm (Principal Engineer)',
 							description: 'Paytm is one of India’s largest fintech platforms, with 300M+ users and a $2B+ annual revenue run rate. As a Principal Engineer, I led a team of 8 DevOps engineers and drove cloud migration, infrastructure automation, and performance optimization for FASTag — a tolling platform used by 20M+ customers.',
 							details: [
 								'Led end-to-end migration of FASTag infrastructure from on-prem to AWS, improving scalability, compliance, and performance.',
