@@ -35,7 +35,7 @@ export default function ContactSection() {
 								</svg>
 								<span>Noida, India</span>
 							</div>
-							<p className="text-green-500 mt-8 mb-2">$ mailx -s "Hello"</p>
+							<p className="text-green-500 mt-8 mb-2">$ mailx -s Hello</p>
 							<motion.a
 								href="mailto:shashank.ssriv@gmail.com"
 								whileHover={{ scale: 1.02 }}
