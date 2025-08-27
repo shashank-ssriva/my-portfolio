@@ -32,6 +32,26 @@ export default function SystemArchitecture() {
 							],
 							tech: ['Python', 'OpenAI', 'FastAPI', 'Phantom Buster', 'Google Sheets API', 'MySQL'],
 						},
+						{
+							title: 'Rich Error Notifier',
+							description: 'Built a Python FastAPI-based error notification system integrated with Slack, Grafana & Loki, that delivers real-time, context-rich alerts and has helped in reducing mean-time-to-resolution (MTTR) for critical issues by more than 75%.',
+							details: [
+								'Fully secure endpoint.',
+								'Modular & easy to accomodate more applications.',
+								'Saves precious time in identifying & fixing critical issues.',
+							],
+							tech: ['Python', 'FastAPI', 'Grafana', 'Slack', 'Loki'],
+						},
+						{
+							title: 'Monthly Analytics Report',
+							description: 'Built an automation system that sends monthly analytics report to the customers with dynamic personalised data automatically, ensuring consistent communication with clients.',
+							details: [
+								'Fully automated system.',
+								'Dynamic data & email delivery.',
+								'Detailed logging for identifying issues while delivering reports.',
+							],
+							tech: ['Bash', 'Shell Script', 'MySQL', 'HTML'],
+						},
 					].map((project, index) => (
 						<motion.div
 							key={index}
