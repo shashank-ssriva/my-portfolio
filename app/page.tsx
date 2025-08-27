@@ -5,6 +5,7 @@ import Experience from './components/Experience';
 import SystemArchitecture from './components/SystemArchitecture';
 import TechnicalMetrics from './components/TechnicalMetrics';
 import ContactSection from './components/ContactSection';
+import Skills from './components/Skills';
 
 export default function BackendPortfolio() {
 	return (
@@ -13,6 +14,7 @@ export default function BackendPortfolio() {
 			<Experience />
 			<SystemArchitecture />
 			<TechnicalMetrics />
+			<Skills />
 			<ContactSection />
 		</main>
 	);
