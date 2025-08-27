@@ -74,7 +74,7 @@ export default function TechnicalMetrics() {
 									<li>• Enabled one-click fully automated deployments with notifications, powering mutiple daily releases.</li>
 									<li>• Reduced deployment & release time by 75%.</li>
 									<li>• Wrote code for automated testing of critical APIs.</li>
-									<li>• Enabled DevOps "shift-left" methodology by integrating numerous SAST/DAST tools with the pipeline.</li>
+									<li>• Enabled DevOps shift-left methodology by integrating numerous SAST/DAST tools with the pipeline.</li>
 								</ul>
 							</motion.div>
 						</div>
