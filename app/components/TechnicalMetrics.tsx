@@ -55,12 +55,12 @@ export default function TechnicalMetrics() {
 							>
 								<h4 className="text-lg font-semibold text-gray-300">Cloud & other Infrastructure</h4>
 								<ul className="mt-2 space-y-2 text-gray-400">
-									<li>• Reduced total AWS costs by more than $150K (across all projects).li>
+									<li>• Reduced total AWS costs by more than $150K (across all projects).</li>
 									<li>• Single-handedly set up the entire Verix & Paytm FASTag cloud infrastructure from scratch.</li>
 									<li>• Helped Verix achieve ISO 27001, SOC 2, GDPR, FERPA, CCPA, and HIPAA compliances.</li>
 									<li>• Single-handedly set up the entire Linux infrastructure for SAS (Scandinavian Airlines) from scratch.</li>
-									<li>• Led Paytm FASTag AWS cloud migration, infrastructure automation, and performance optimization.li>
-									<li>• Significantly enhanced API Gateway operations.li>
+									<li>• Led Paytm FASTag AWS cloud migration, infrastructure automation, and performance optimization.</li>
+									<li>• Significantly enhanced API Gateway operations.</li>
 								</ul>
 							</motion.div>
 							<motion.div
